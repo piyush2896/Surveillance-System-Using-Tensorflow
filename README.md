@@ -5,7 +5,7 @@ email sender code.
 ## Usage
 Make a gmail account and log on to it in browser before running the code.
 And change the settings to allow access to less secure applications.
-Make a file names ```sender_details.txt```. Content of the file are as follows:
+Make a file named ```sender_details.txt```. Contents of the file are as follows:
 1st line - sender email, 2nd line password of sender email, from 3rd line till nth line receiver email.
 
 Then run python code using 
